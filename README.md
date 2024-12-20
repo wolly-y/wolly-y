@@ -1,5 +1,7 @@
 #hello!👋
-<img src="https://github.com/wolly-y/wolly-y/blob/main/simps.gif" alt="The Unlimited" widht="600">
+
+
+<img src="https://github.com/wolly-y/wolly-y/blob/main/simps.gif" alt="The Unlimited" widht="400">
 
 #my tools:
 

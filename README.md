@@ -1,4 +1,4 @@
-# Привет, я wolly-y! 👋
+# Привет, я wolly! 👋
 
 <img src="https://github.com/wolly-y/wolly-y/blob/main/simps.gif" alt="The Unlimited" width="200">
 
@@ -18,4 +18,4 @@
     /'\_   _/`\
     \___)=(___/
 
-### Открыт к сотрудничеству и новым проектам!
+###⭐⭐ Открыт к сотрудничеству и новым проектам! ⭐⭐
